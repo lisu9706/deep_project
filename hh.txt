@@ -11,6 +11,7 @@ second
 
 hello,world
 
+<<<<<<< HEAD
 done!
 =======
 you know nothing
@@ -25,3 +26,10 @@ llll
 
 hhhhhhhhhhhhhhhhhh
 what?
+=======
+test
+
+tewstt哈哈哈哈
+
+test最终修改
+>>>>>>> 2f1ff95d0b4e6d71e610820af1c15f9f31128f6e
