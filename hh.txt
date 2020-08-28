@@ -41,7 +41,6 @@ so difficult!
 >>>>>>> lisu
 lisu done !!!!!!!!!
 
-<<<<<<< HEAD
-=======
+
 change to this
->>>>>>> lisu
+tag:1.0
