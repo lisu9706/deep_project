@@ -7,13 +7,13 @@ lisu submmit
 
 second
 
-<<<<<<< HEAD
+
 
 hello,world
 
-<<<<<<< HEAD
+
 done!
-=======
+
 you know nothing
 
 haha
@@ -21,7 +21,7 @@ what's wrong with you?
 
 ll
 
-
+test
 llll
 
 hhhhhhhhhhhhhhhhhh
@@ -32,4 +32,4 @@ test
 tewstt哈哈哈哈
 
 test最终修改
->>>>>>> 2f1ff95d0b4e6d71e610820af1c15f9f31128f6e
+test 12344
