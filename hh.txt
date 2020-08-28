@@ -15,6 +15,7 @@ hello,world
 done!
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 you know nothing
 
 haha
@@ -35,5 +36,8 @@ tewstt哈哈哈哈
 test最终修改
 test 12344
 
+=======
+so difficult!
+>>>>>>> lisu
 lisu done !!!!!!!!!
 
