@@ -4,9 +4,24 @@ work hard hard
 
 lisu submmit
 
+
 second
 
+<<<<<<< HEAD
 
 hello,world
 
 done!
+=======
+you know nothing
+
+haha
+what's wrong with you?
+
+ll
+
+
+llll
+
+hhhhhhhhhhhhhhhhhh
+what?
